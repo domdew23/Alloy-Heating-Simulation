@@ -30,7 +30,6 @@ public class Leaf extends Tree {
 				md = Math.max(md, Math.abs(diff));
 			}
 		}
-		//System.out.println("md: " + md);
 		Control.addPart(b);
 		Control.updateNeighbors(b);
 		maxDiff = md;

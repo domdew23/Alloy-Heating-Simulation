@@ -72,7 +72,6 @@ public class Region implements Serializable {
 		Region retVal = new Region(this.x, this.y);
 		retVal.setTemp(total);
 		retVal.calcRGB();
-		//if (x == Settings.WIDTH/2 && y == Settings.HEIGHT/2) System.out.println(retVal.temp + " - " + retVal.x + ", " + retVal.y);
 		return retVal;
 	}
 
