@@ -1,3 +1,3 @@
 <h1>Metal-Alloy-Heating-Simulation</h1>
-<img src="bannerGIF.gif" height="300" width="600">
+<img src="banner.gif" height="400" width="800">
 
